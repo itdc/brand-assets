@@ -1,0 +1,17 @@
+{
+  "name": "itdc-brand-assets",
+  "version": "1.0.0",
+  "description": "ITDC Brand assets",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itdc/brand-assets.git"
+  },
+  "author": "cotne nazarashvili <cotne@itdc.ge>",
+  "bugs": {
+    "url": "https://github.com/itdc/brand-assets/issues"
+  },
+  "homepage": "https://github.com/itdc/brand-assets#readme"
+}
